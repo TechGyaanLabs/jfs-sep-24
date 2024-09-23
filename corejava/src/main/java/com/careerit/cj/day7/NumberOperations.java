@@ -99,4 +99,9 @@ public class NumberOperations {
         return String.valueOf(num).length();
     }
 
+    public static int[] generatePrimes(int lb, int ub){
+
+        return null;
+    }
+
 }
