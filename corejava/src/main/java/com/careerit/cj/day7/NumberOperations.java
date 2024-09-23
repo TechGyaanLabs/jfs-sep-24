@@ -95,4 +95,13 @@ public class NumberOperations {
         return count;
     }
 
+    public static int countOf(int num){
+        return String.valueOf(num).length();
+    }
+
+    public static int[] generatePrimes(int lb, int ub){
+
+        return null;
+    }
+
 }
