@@ -51,8 +51,7 @@ public class NumberOfDays {
     }
 
     public static boolean isLeapYear(int year){
-        // Add logic
-        return true;
+        return (year % 4 == 0 && year % 100 != 0) || year % 400==0;
     }
 
 
