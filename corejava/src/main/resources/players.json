@@ -1,0 +1,202 @@
+[
+  {
+    "name": "MS Dhoni",
+    "team": "Chennai Super Kings",
+    "team_label": "CSK",
+    "amount": 12.0,
+    "role": "Batsman/Wicketkeeper",
+    "country": "India"
+  },
+  {
+    "name": "Virat Kohli",
+    "team": "Royal Challengers Bangalore",
+    "team_label": "RCB",
+    "amount": 15.0,
+    "role": "Batsman",
+    "country": "India"
+  },
+  {
+    "name": "Rohit Sharma",
+    "team": "Mumbai Indians",
+    "team_label": "MI",
+    "amount": 16.0,
+    "role": "Batsman",
+    "country": "India"
+  },
+  {
+    "name": "David Warner",
+    "team": "Delhi Capitals",
+    "team_label": "DC",
+    "amount": 6.25,
+    "role": "Batsman",
+    "country": "Australia"
+  },
+  {
+    "name": "Jos Buttler",
+    "team": "Rajasthan Royals",
+    "team_label": "RR",
+    "amount": 10.0,
+    "role": "Batsman/Wicketkeeper",
+    "country": "England"
+  },
+  {
+    "name": "Hardik Pandya",
+    "team": "Gujarat Titans",
+    "team_label": "GT",
+    "amount": 15.0,
+    "role": "All-Rounder",
+    "country": "India"
+  },
+  {
+    "name": "Andre Russell",
+    "team": "Kolkata Knight Riders",
+    "team_label": "KKR",
+    "amount": 12.0,
+    "role": "All-Rounder",
+    "country": "West Indies"
+  },
+  {
+    "name": "Kagiso Rabada",
+    "team": "Punjab Kings",
+    "team_label": "PBKS",
+    "amount": 9.25,
+    "role": "Bowler",
+    "country": "South Africa"
+  },
+  {
+    "name": "Shreyas Iyer",
+    "team": "Kolkata Knight Riders",
+    "team_label": "KKR",
+    "amount": 12.25,
+    "role": "Batsman",
+    "country": "India"
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "team": "Chennai Super Kings",
+    "team_label": "CSK",
+    "amount": 16.0,
+    "role": "All-Rounder",
+    "country": "India"
+  },
+  {
+    "name": "Liam Livingstone",
+    "team": "Punjab Kings",
+    "team_label": "PBKS",
+    "amount": 11.5,
+    "role": "All-Rounder",
+    "country": "England"
+  },
+  {
+    "name": "Faf du Plessis",
+    "team": "Royal Challengers Bangalore",
+    "team_label": "RCB",
+    "amount": 7.0,
+    "role": "Batsman",
+    "country": "South Africa"
+  },
+  {
+    "name": "Pat Cummins",
+    "team": "Kolkata Knight Riders",
+    "team_label": "KKR",
+    "amount": 7.25,
+    "role": "Bowler",
+    "country": "Australia"
+  },
+  {
+    "name": "KL Rahul",
+    "team": "Lucknow Super Giants",
+    "team_label": "LSG",
+    "amount": 17.0,
+    "role": "Batsman",
+    "country": "India"
+  },
+  {
+    "name": "Trent Boult",
+    "team": "Rajasthan Royals",
+    "team_label": "RR",
+    "amount": 8.0,
+    "role": "Bowler",
+    "country": "New Zealand"
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "team": "Mumbai Indians",
+    "team_label": "MI",
+    "amount": 8.0,
+    "role": "Batsman",
+    "country": "India"
+  },
+  {
+    "name": "Kane Williamson",
+    "team": "Sunrisers Hyderabad",
+    "team_label": "SRH",
+    "amount": 3.0,
+    "role": "Batsman",
+    "country": "New Zealand"
+  },
+  {
+    "name": "Marcus Stoinis",
+    "team": "Lucknow Super Giants",
+    "team_label": "LSG",
+    "amount": 9.2,
+    "role": "All-Rounder",
+    "country": "Australia"
+  },
+  {
+    "name": "Anrich Nortje",
+    "team": "Delhi Capitals",
+    "team_label": "DC",
+    "amount": 6.5,
+    "role": "Bowler",
+    "country": "South Africa"
+  },
+  {
+    "name": "Jofra Archer",
+    "team": "Mumbai Indians",
+    "team_label": "MI",
+    "amount": 8.0,
+    "role": "Bowler",
+    "country": "England"
+  },
+  {
+    "name": "Bhuvneshwar Kumar",
+    "team": "Sunrisers Hyderabad",
+    "team_label": "SRH",
+    "amount": 8.5,
+    "role": "Bowler",
+    "country": "India"
+  },
+  {
+    "name": "Rishabh Pant",
+    "team": "Delhi Capitals",
+    "team_label": "DC",
+    "amount": 16.0,
+    "role": "Batsman/Wicketkeeper",
+    "country": "India"
+  },
+  {
+    "name": "Devdutt Padikkal",
+    "team": "Rajasthan Royals",
+    "team_label": "RR",
+    "amount": 7.75,
+    "role": "Batsman",
+    "country": "India"
+  },
+  {
+    "name": "Ruturaj Gaikwad",
+    "team": "Chennai Super Kings",
+    "team_label": "CSK",
+    "amount": 6.0,
+    "role": "Batsman",
+    "country": "India"
+  },
+  {
+    "name": "Shikhar Dhawan",
+    "team": "Punjab Kings",
+    "team_label": "PBKS",
+    "amount": 8.25,
+    "role": "Batsman",
+    "country": "India"
+  }
+]

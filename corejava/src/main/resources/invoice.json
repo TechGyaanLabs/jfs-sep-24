@@ -1,0 +1,54 @@
+{
+  "invoice_number": "INV12345",
+  "invoice_date": "2024-10-03",
+  "seller_details": {
+    "name": "XYZ Pvt Ltd",
+    "gstin": "29ABCDE1234FZ1",
+    "address": {
+      "line1": "123 Business St",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560001"
+    }
+  },
+  "buyer_details": {
+    "name": "ABC Traders",
+    "gstin": "27ABCDE5678H1Z",
+    "address": {
+      "line1": "789 Market Rd",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "pincode": "400001"
+    }
+  },
+  "items": [
+    {
+      "description": "Laptop",
+      "quantity": 1,
+      "rate": 50000,
+      "amount": 50000,
+      "gst_rate": 18,
+      "cgst": 4500,
+      "sgst": 4500,
+      "total": 59000
+    },
+    {
+      "description": "Mouse",
+      "quantity": 2,
+      "rate": 1000,
+      "amount": 2000,
+      "gst_rate": 18,
+      "cgst": 180,
+      "sgst": 180,
+      "total": 2360
+    }
+  ],
+  "total_before_tax": 52000,
+  "cgst_total": 4680,
+  "sgst_total": 4680,
+  "total_tax": 9360,
+  "grand_total": 61360,
+  "payment_terms": "Due within 30 days"
+}
