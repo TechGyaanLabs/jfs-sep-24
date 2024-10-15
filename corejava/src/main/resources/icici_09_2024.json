@@ -1,0 +1,25 @@
+{
+  "totalBalance": 25000,
+  "name": "John",
+  "charges": 10,
+  "account#": 1234567890,
+  "date": "2024-09-02",
+  "billToAddress": {
+    "street": "123 Main St",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": 62701
+  },
+  "transactionsList": [
+    {
+      "date": "2024-09-01",
+      "amount": 10,
+      "description": "Lunch"
+    },
+    {
+      "date": "2024-09-02",
+      "amount": 10,
+      "description": "Dinner"
+    }
+  ]
+}

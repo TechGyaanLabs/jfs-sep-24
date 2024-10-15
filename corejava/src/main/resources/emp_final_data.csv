@@ -1,0 +1,2 @@
+empno, name, salary with currency_symbol, currency_name, currency_code
+1001, John, $1000, US Dollar, USD

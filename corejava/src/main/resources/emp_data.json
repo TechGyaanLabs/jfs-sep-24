@@ -1,0 +1,23 @@
+[
+  {"empno": 101, "ename": "John Doe", "sal": 4500.00, "currency_code": "USD"},
+  {"empno": 102, "ename": "Jane Smith", "sal": 5200.00, "currency_code": "USD"},
+  {"empno": 103, "ename": "Bob Brown", "sal": 4100.00, "currency_code": "EUR"},
+  {"empno": 104, "ename": "Alice Lee", "sal": 4900.00, "currency_code": "GBP"},
+  {"empno": 105, "ename": "Max White", "sal": 5300.00, "currency_code": "USD"},
+  {"empno": 106, "ename": "Lisa Gray", "sal": 4700.00, "currency_code": "EUR"},
+  {"empno": 107, "ename": "Sam Green", "sal": 6000.00, "currency_code": "USD"},
+  {"empno": 108, "ename": "Emma Black", "sal": 4300.00, "currency_code": "CAD"},
+  {"empno": 109, "ename": "Tom Ford", "sal": 5900.00, "currency_code": "AUD"},
+  {"empno": 110, "ename": "Chris Blue", "sal": 5500.00, "currency_code": "EUR"},
+  {"empno": 111, "ename": "Olivia Gold", "sal": 6200.00, "currency_code": "GBP"},
+  {"empno": 112, "ename": "Jack Brown", "sal": 5000.00, "currency_code": "JPY"},
+  {"empno": 113, "ename": "Ava Orange", "sal": 4700.00, "currency_code": "INR"},
+  {"empno": 114, "ename": "Henry Gray", "sal": 6300.00, "currency_code": "USD"},
+  {"empno": 115, "ename": "Sophia Silver", "sal": 5400.00, "currency_code": "CAD"},
+  {"empno": 116, "ename": "Lucas Green", "sal": 4900.00, "currency_code": "EUR"},
+  {"empno": 117, "ename": "Mia Red", "sal": 5200.00, "currency_code": "GBP"},
+  {"empno": 118, "ename": "Liam Yellow", "sal": 6100.00, "currency_code": "USD"},
+  {"empno": 119, "ename": "Charlotte White", "sal": 5800.00, "currency_code": "INR"},
+  {"empno": 120, "ename": "James Purple", "sal": 4700.00, "currency_code": "JPY"}
+]
+
