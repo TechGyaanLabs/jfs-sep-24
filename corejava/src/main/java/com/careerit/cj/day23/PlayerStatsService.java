@@ -1,7 +1,7 @@
 package com.careerit.cj.day23;
 
+import com.careerit.cj.day24.JsonUtil;
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,17 +10,8 @@ public class PlayerStatsService {
 
 
     public List<Player> loadPlayers() {
-        ObjectMapper mapper = new ObjectMapper();
-        try {
-            List<Player> list = mapper.readValue(PlayerStatsService
-                            .class.getResourceAsStream("/players.json"),
-                    new TypeReference<List<Player>>() {
-                    });
-            return list;
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        return null;
+        return JsonUtil.fromJson("ipl_2021.json", new TypeReference<List<Player>>() {
+        });
     }
 
     public static void main(String[] args) {

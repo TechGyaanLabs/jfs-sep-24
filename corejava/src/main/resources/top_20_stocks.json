@@ -1,0 +1,22 @@
+[
+  {"CompanyName": "Reliance Industries Ltd", "Ticker": "RIL", "Price": 2713, "Location": "Mumbai"},
+  {"CompanyName": "Tata Consultancy Services Ltd", "Ticker": "TCS", "Price": 4106, "Location": "Mumbai"},
+  {"CompanyName": "HDFC Bank Ltd", "Ticker": "HDFCBANK", "Price": 1561, "Location": "Mumbai"},
+  {"CompanyName": "ICICI Bank Ltd", "Ticker": "ICICIBANK", "Price": 974, "Location": "Mumbai"},
+  {"CompanyName": "Hindustan Unilever Ltd", "Ticker": "HUL", "Price": 2737, "Location": "Mumbai"},
+  {"CompanyName": "Infosys Ltd", "Ticker": "INFY", "Price": 1402, "Location": "Bengaluru"},
+  {"CompanyName": "ITC Ltd", "Ticker": "ITC", "Price": 488, "Location": "Kolkata"},
+  {"CompanyName": "Larsen & Toubro Ltd", "Ticker": "L&T", "Price": 3567, "Location": "Mumbai"},
+  {"CompanyName": "Bharti Airtel Ltd", "Ticker": "BHARTIARTL", "Price": 920, "Location": "Gurgaon"},
+  {"CompanyName": "Kotak Mahindra Bank Ltd", "Ticker": "KOTAKBANK", "Price": 1745, "Location": "Mumbai"},
+  {"CompanyName": "HCL Technologies Ltd", "Ticker": "HCLTECH", "Price": 1868, "Location": "Noida"},
+  {"CompanyName": "State Bank of India", "Ticker": "SBIN", "Price": 605, "Location": "Mumbai"},
+  {"CompanyName": "Axis Bank Ltd", "Ticker": "AXISBANK", "Price": 912, "Location": "Mumbai"},
+  {"CompanyName": "Bajaj Finance Ltd", "Ticker": "BAJFINANCE", "Price": 6902, "Location": "Pune"},
+  {"CompanyName": "Wipro Ltd", "Ticker": "WIPRO", "Price": 387, "Location": "Bengaluru"},
+  {"CompanyName": "Adani Enterprises Ltd", "Ticker": "ADANIENT", "Price": 2516, "Location": "Ahmedabad"},
+  {"CompanyName": "NTPC Ltd", "Ticker": "NTPC", "Price": 419, "Location": "New Delhi"},
+  {"CompanyName": "Maruti Suzuki India Ltd", "Ticker": "MARUTI", "Price": 12144, "Location": "New Delhi"},
+  {"CompanyName": "Sun Pharmaceutical Industries Ltd", "Ticker": "SUNPHARMA", "Price": 1892, "Location": "Mumbai"},
+  {"CompanyName": "UltraTech Cement Ltd", "Ticker": "ULTRACEMCO", "Price": 7933, "Location": "Mumbai"}
+]
