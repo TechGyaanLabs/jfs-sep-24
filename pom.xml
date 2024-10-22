@@ -11,6 +11,7 @@
     <modules>
         <module>corejava</module>
         <module>interview-questions</module>
+        <module>ipl-stats-app</module>
 
     </modules>
 
