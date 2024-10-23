@@ -103,4 +103,23 @@ public class IplStatsServiceImpl implements IplStatsService {
         return null;
     }
 
+    @Override
+    public List<PlayerDto> getAllPlayers() {
+        List<PlayerDto> playerDtoList = new ArrayList<>();
+
+        teamDetailsList.forEach(teamDetails -> {
+            List<Player> players = teamDetails.getPlayers();
+            for (Player player : players) {
+                PlayerDto playerDto = new PlayerDto();
+                playerDto.setName(player.getName());
+                playerDto.setRole(player.getRole());
+                playerDto.setPrice(player.getPrice());
+                playerDto.setTeamName(teamDetails.getName());
+                playerDto.setTeamLabel(teamDetails.getLabel());
+                playerDtoList.add(playerDto);
+            }
+        });
+        return playerDtoList;
+    }
+
 }

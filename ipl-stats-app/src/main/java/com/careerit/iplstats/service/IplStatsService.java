@@ -19,5 +19,6 @@ public interface IplStatsService {
         List<PlayerDto> getPlayersByRole(String role);
         List<PlayerDto> getPlayersByTeamAndRole(String teamName,String role);
         List<PlayerDto> sortByField(String field);
+        List<PlayerDto> getAllPlayers();
 
 }

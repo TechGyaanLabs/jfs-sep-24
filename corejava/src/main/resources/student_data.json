@@ -1,0 +1,4210 @@
+[
+  {
+    "Name": "JOHNSON",
+    "Batch": "BCJ1",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "WILLIAMS",
+    "Batch": "BCJ1",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 80.56
+  },
+  {
+    "Name": "BROWN",
+    "Batch": "BCJ1",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 72.4
+  },
+  {
+    "Name": "JONES",
+    "Batch": "BCJ1",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 62.83
+  },
+  {
+    "Name": "MILLER",
+    "Batch": "BCJ1",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "DAVIS",
+    "Batch": "BCJ1",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69.8
+  },
+  {
+    "Name": "GARCIA",
+    "Batch": "BCJ1",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 58
+  },
+  {
+    "Name": "RODRIGUEZ",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67
+  },
+  {
+    "Name": "WILSON",
+    "Batch": "BCJ2",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67
+  },
+  {
+    "Name": "MARTINEZ",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67.2
+  },
+  {
+    "Name": "ANDERSON",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67.2
+  },
+  {
+    "Name": "TAYLOR",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67.2
+  },
+  {
+    "Name": "THOMAS",
+    "Batch": "BCJ2",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 52
+  },
+  {
+    "Name": "HERNANDEZ",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "B Com",
+    "Score": 71
+  },
+  {
+    "Name": "MOORE",
+    "Batch": "BCJ2",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67.4
+  },
+  {
+    "Name": "MARTIN",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 59
+  },
+  {
+    "Name": "JACKSON",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61.5
+  },
+  {
+    "Name": "THOMPSON",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 69.1
+  },
+  {
+    "Name": "WHITE",
+    "Batch": "BCJ2",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "LOPEZ",
+    "Batch": "BCJ2",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "LEE",
+    "Batch": "BCJ2",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65.5
+  },
+  {
+    "Name": "GONZALEZ",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 83
+  },
+  {
+    "Name": "HARRIS",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 62.13
+  },
+  {
+    "Name": "CLARK",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67.5
+  },
+  {
+    "Name": "LEWIS",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 58
+  },
+  {
+    "Name": "ROBINSON",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "WALKER",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "M Sc",
+    "Score": 79
+  },
+  {
+    "Name": "PEREZ",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 64
+  },
+  {
+    "Name": "HALL",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "YOUNG",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69.44
+  },
+  {
+    "Name": "ALLEN",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 81.3
+  },
+  {
+    "Name": "SANCHEZ",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 75
+  },
+  {
+    "Name": "WRIGHT",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 74
+  },
+  {
+    "Name": "KING",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61.87
+  },
+  {
+    "Name": "SCOTT",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 73
+  },
+  {
+    "Name": "GREEN",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66.5
+  },
+  {
+    "Name": "BAKER",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66
+  },
+  {
+    "Name": "ADAMS",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 70
+  },
+  {
+    "Name": "NELSON",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67
+  },
+  {
+    "Name": "HILL",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71
+  },
+  {
+    "Name": "RAMIREZ",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71.1
+  },
+  {
+    "Name": "CAMPBELL",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66
+  },
+  {
+    "Name": "MITCHELL",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66.7
+  },
+  {
+    "Name": "ROBERTS",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "CARTER",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 64.3
+  },
+  {
+    "Name": "PHILLIPS",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "EVANS",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 76
+  },
+  {
+    "Name": "TURNER",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 64.5
+  },
+  {
+    "Name": "TORRES",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCS",
+    "Score": 78
+  },
+  {
+    "Name": "PARKER",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BCA",
+    "Score": 67
+  },
+  {
+    "Name": "COLLINS",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "EDWARDS",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "STEWART",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 56
+  },
+  {
+    "Name": "FLORES",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 56
+  },
+  {
+    "Name": "MORRIS",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 77.96
+  },
+  {
+    "Name": "NGUYEN",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65.73
+  },
+  {
+    "Name": "MURPHY",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 76
+  },
+  {
+    "Name": "RIVERA",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65.2
+  },
+  {
+    "Name": "COOK",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 79.1
+  },
+  {
+    "Name": "ROGERS",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71.42
+  },
+  {
+    "Name": "MORGAN",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66
+  },
+  {
+    "Name": "PETERSON",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BCA",
+    "Score": 71
+  },
+  {
+    "Name": "COOPER",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70.26
+  },
+  {
+    "Name": "REED",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66
+  },
+  {
+    "Name": "BAILEY",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "BELL",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66.3
+  },
+  {
+    "Name": "GOMEZ",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 64
+  },
+  {
+    "Name": "KELLY",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "HOWARD",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61.74
+  },
+  {
+    "Name": "WARD",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 64.37
+  },
+  {
+    "Name": "COX",
+    "Batch": "BCJ5",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 74
+  },
+  {
+    "Name": "DIAZ",
+    "Batch": "BCJ5",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 69
+  },
+  {
+    "Name": "RICHARDSON",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 75.33
+  },
+  {
+    "Name": "WOOD",
+    "Batch": "BCJ5",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 74
+  },
+  {
+    "Name": "WATSON",
+    "Batch": "BCJ5",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 77
+  },
+  {
+    "Name": "BROOKS",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 55.66
+  },
+  {
+    "Name": "BENNETT",
+    "Batch": "BCJ5",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 58
+  },
+  {
+    "Name": "GRAY",
+    "Batch": "BCJ5",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "JAMES",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 82.5
+  },
+  {
+    "Name": "REYES",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "CRUZ",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 79
+  },
+  {
+    "Name": "HUGHES",
+    "Batch": "BCJ5",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 80
+  },
+  {
+    "Name": "PRICE",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 58
+  },
+  {
+    "Name": "MYERS",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 74.5
+  },
+  {
+    "Name": "LONG",
+    "Batch": "BCJ5",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 66
+  },
+  {
+    "Name": "FOSTER",
+    "Batch": "BCJ5",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71
+  },
+  {
+    "Name": "SANDERS",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 72
+  },
+  {
+    "Name": "ROSS",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 58.82
+  },
+  {
+    "Name": "MORALES",
+    "Batch": "BCJ5",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71
+  },
+  {
+    "Name": "POWELL",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66.3
+  },
+  {
+    "Name": "SULLIVAN",
+    "Batch": "BCJ5",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "RUSSELL",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65.17
+  },
+  {
+    "Name": "ORTIZ",
+    "Batch": "BCJ5",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66.4
+  },
+  {
+    "Name": "JENKINS",
+    "Batch": "BCJ6",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 72.94
+  },
+  {
+    "Name": "GUTIERREZ",
+    "Batch": "BCJ6",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 55
+  },
+  {
+    "Name": "PERRY",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "BUTLER",
+    "Batch": "BCJ6",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 64.78
+  },
+  {
+    "Name": "BARNES",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61.98
+  },
+  {
+    "Name": "FISHER",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "HENDERSON",
+    "Batch": "BCJ6",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 58
+  },
+  {
+    "Name": "COLEMAN",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66
+  },
+  {
+    "Name": "SIMMONS",
+    "Batch": "BCJ6",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65.45
+  },
+  {
+    "Name": "PATTERSON",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66
+  },
+  {
+    "Name": "JORDAN",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 80
+  },
+  {
+    "Name": "REYNOLDS",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 67.14
+  },
+  {
+    "Name": "HAMILTON",
+    "Batch": "BCJ6",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67.2
+  },
+  {
+    "Name": "GRAHAM",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 65.9
+  },
+  {
+    "Name": "KIM",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 63
+  },
+  {
+    "Name": "GONZALES",
+    "Batch": "BCJ6",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 62
+  },
+  {
+    "Name": "ALEXANDER",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 69
+  },
+  {
+    "Name": "RAMOS",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 67
+  },
+  {
+    "Name": "WALLACE",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 62
+  },
+  {
+    "Name": "GRIFFIN",
+    "Batch": "BCJ6",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 77
+  },
+  {
+    "Name": "WEST",
+    "Batch": "BCJ6",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 60
+  },
+  {
+    "Name": "COLE",
+    "Batch": "BCJ6",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 64.5
+  },
+  {
+    "Name": "HAYES",
+    "Batch": "BCJ6",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 68
+  },
+  {
+    "Name": "CHAVEZ",
+    "Batch": "BCJ6",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "GIBSON",
+    "Batch": "BCJ7",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 76.13
+  },
+  {
+    "Name": "BRYANT",
+    "Batch": "BCJ7",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 57
+  },
+  {
+    "Name": "ELLIS",
+    "Batch": "BCJ7",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "STEVENS",
+    "Batch": "BCJ7",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 62.26
+  },
+  {
+    "Name": "MURRAY",
+    "Batch": "BCJ7",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 76.93
+  },
+  {
+    "Name": "FORD",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "MARSHALL",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 72.6
+  },
+  {
+    "Name": "OWENS",
+    "Batch": "BCJ7",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66.17
+  },
+  {
+    "Name": "MCDONALD",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "HARRISON",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "RUIZ",
+    "Batch": "BCJ7",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "KENNEDY",
+    "Batch": "BCJ7",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 60.69
+  },
+  {
+    "Name": "WELLS",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71.57
+  },
+  {
+    "Name": "ALVAREZ",
+    "Batch": "BCJ7",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65.7
+  },
+  {
+    "Name": "WOODS",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "MENDOZA",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "CASTILLO",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67.7
+  },
+  {
+    "Name": "OLSON",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "WEBB",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 60.2
+  },
+  {
+    "Name": "WASHINGTON",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 86.5
+  },
+  {
+    "Name": "TUCKER",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 74.3
+  },
+  {
+    "Name": "FREEMAN",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 72.3
+  },
+  {
+    "Name": "BURNS",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "HENRY",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69
+  },
+  {
+    "Name": "VASQUEZ",
+    "Batch": "BCJ7",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 86.4
+  },
+  {
+    "Name": "SNYDER",
+    "Batch": "BCJ7",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 83.4
+  },
+  {
+    "Name": "SIMPSON",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 79.4
+  },
+  {
+    "Name": "CRAWFORD",
+    "Batch": "BCJ8",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "JIMENEZ",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69.09
+  },
+  {
+    "Name": "PORTER",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 81.2
+  },
+  {
+    "Name": "MASON",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 68.5
+  },
+  {
+    "Name": "SHAW",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 72
+  },
+  {
+    "Name": "GORDON",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69
+  },
+  {
+    "Name": "WAGNER",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "HUNTER",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 68.01
+  },
+  {
+    "Name": "ROMERO",
+    "Batch": "BCJ8",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67.81
+  },
+  {
+    "Name": "HICKS",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 81.5
+  },
+  {
+    "Name": "DIXON",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 80
+  },
+  {
+    "Name": "HUNT",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 72.2
+  },
+  {
+    "Name": "PALMER",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 63.9
+  },
+  {
+    "Name": "ROBERTSON",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67.3
+  },
+  {
+    "Name": "BLACK",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66
+  },
+  {
+    "Name": "HOLMES",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 76
+  },
+  {
+    "Name": "STONE",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70.8
+  },
+  {
+    "Name": "MEYER",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "BOYD",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 56
+  },
+  {
+    "Name": "MILLS",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 79
+  },
+  {
+    "Name": "WARREN",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "FOX",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 64.32
+  },
+  {
+    "Name": "ROSE",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61.8
+  },
+  {
+    "Name": "RICE",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 59.44
+  },
+  {
+    "Name": "MORENO",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "SCHMIDT",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 76.72
+  },
+  {
+    "Name": "PATEL",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "FERGUSON",
+    "Batch": "BCJ8",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "NICHOLS",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 72.3
+  },
+  {
+    "Name": "HERRERA",
+    "Batch": "BCJ8",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 77.23
+  },
+  {
+    "Name": "MEDINA",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 81
+  },
+  {
+    "Name": "RYAN",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "FERNANDEZ",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 53
+  },
+  {
+    "Name": "WEAVER",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 79
+  },
+  {
+    "Name": "DANIELS",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61.21
+  },
+  {
+    "Name": "STEPHENS",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 80.8
+  },
+  {
+    "Name": "GARDNER",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 79.6
+  },
+  {
+    "Name": "PAYNE",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65.44
+  },
+  {
+    "Name": "KELLEY",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 59.66
+  },
+  {
+    "Name": "DUNN",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63
+  },
+  {
+    "Name": "PIERCE",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "M Tech",
+    "Score": 78.9
+  },
+  {
+    "Name": "ARNOLD",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "TRAN",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67.32
+  },
+  {
+    "Name": "SPENCER",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65.04
+  },
+  {
+    "Name": "PETERS",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M Tech",
+    "Score": 62.78
+  },
+  {
+    "Name": "HAWKINS",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 79
+  },
+  {
+    "Name": "GRANT",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70.35
+  },
+  {
+    "Name": "HANSEN",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "CASTRO",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 64.77
+  },
+  {
+    "Name": "HOFFMAN",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 79
+  },
+  {
+    "Name": "HART",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71.33
+  },
+  {
+    "Name": "ELLIOTT",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65.23
+  },
+  {
+    "Name": "CUNNINGHAM",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 80
+  },
+  {
+    "Name": "KNIGHT",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 67.14
+  },
+  {
+    "Name": "BRADLEY",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "M Tech",
+    "Score": 74.8
+  },
+  {
+    "Name": "CARROLL",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "M Tech",
+    "Score": 78
+  },
+  {
+    "Name": "HUDSON",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "DUNCAN",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "ARMSTRONG",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70.14
+  },
+  {
+    "Name": "BERRY",
+    "Batch": "BCJ9",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71.6
+  },
+  {
+    "Name": "ANDREWS",
+    "Batch": "BCJ9",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67.3
+  },
+  {
+    "Name": "JOHNSTON",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67.3
+  },
+  {
+    "Name": "RAY",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69.42
+  },
+  {
+    "Name": "LANE",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66.9
+  },
+  {
+    "Name": "RILEY",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 70.08
+  },
+  {
+    "Name": "CARPENTER",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67
+  },
+  {
+    "Name": "PERKINS",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 76
+  },
+  {
+    "Name": "AGUILAR",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "M Tech",
+    "Score": 74.1
+  },
+  {
+    "Name": "SILVA",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 60
+  },
+  {
+    "Name": "RICHARDS",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 64
+  },
+  {
+    "Name": "WILLIS",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71
+  },
+  {
+    "Name": "MATTHEWS",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 71.34
+  },
+  {
+    "Name": "CHAPMAN",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 69.59
+  },
+  {
+    "Name": "LAWRENCE",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 76.5
+  },
+  {
+    "Name": "GARZA",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M.Tech",
+    "Score": 8.42
+  },
+  {
+    "Name": "VARGAS",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 55
+  },
+  {
+    "Name": "WATKINS",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 83.4
+  },
+  {
+    "Name": "WHEELER",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69.76
+  },
+  {
+    "Name": "LARSON",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 69.76
+  },
+  {
+    "Name": "CARLSON",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 74
+  },
+  {
+    "Name": "HARPER",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65.1
+  },
+  {
+    "Name": "GEORGE",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 78.02
+  },
+  {
+    "Name": "GREENE",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 70.5
+  },
+  {
+    "Name": "BURKE",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 70.5
+  },
+  {
+    "Name": "GUZMAN",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61.1
+  },
+  {
+    "Name": "MORRISON",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 60
+  },
+  {
+    "Name": "MUNOZ",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 69
+  },
+  {
+    "Name": "JACOBS",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67
+  },
+  {
+    "Name": "OBRIEN",
+    "Batch": "BCJ10",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 57
+  },
+  {
+    "Name": "LAWSON",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61.2
+  },
+  {
+    "Name": "FRANKLIN",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71.2
+  },
+  {
+    "Name": "LYNCH",
+    "Batch": "BCJ10",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "M Tech",
+    "Score": 72.27
+  },
+  {
+    "Name": "BISHOP",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "M Tech",
+    "Score": 75
+  },
+  {
+    "Name": "CARR",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 74
+  },
+  {
+    "Name": "SALAZAR",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 71
+  },
+  {
+    "Name": "AUSTIN",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71
+  },
+  {
+    "Name": "MENDEZ",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 65
+  },
+  {
+    "Name": "GILBERT",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 69
+  },
+  {
+    "Name": "JENSEN",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 60.95
+  },
+  {
+    "Name": "WILLIAMSON",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "MONTGOMERY",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 77.37
+  },
+  {
+    "Name": "HARVEY",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 64
+  },
+  {
+    "Name": "OLIVER",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 63.55
+  },
+  {
+    "Name": "HOWELL",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 51.63
+  },
+  {
+    "Name": "DEAN",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 74.26
+  },
+  {
+    "Name": "HANSON",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 60
+  },
+  {
+    "Name": "WEBER",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 58
+  },
+  {
+    "Name": "GARRETT",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 80
+  },
+  {
+    "Name": "SIMS",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 73
+  },
+  {
+    "Name": "BURTON",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 74
+  },
+  {
+    "Name": "FULLER",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 74
+  },
+  {
+    "Name": "SOTO",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 59
+  },
+  {
+    "Name": "MCCOY",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70.65
+  },
+  {
+    "Name": "WELCH",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67.46
+  },
+  {
+    "Name": "CHEN",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 83.16
+  },
+  {
+    "Name": "SCHULTZ",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 52
+  },
+  {
+    "Name": "WALTERS",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 64.3
+  },
+  {
+    "Name": "REID",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "FIELDS",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 88
+  },
+  {
+    "Name": "WALSH",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 74.5
+  },
+  {
+    "Name": "LITTLE",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 67
+  },
+  {
+    "Name": "FOWLER",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 68.24
+  },
+  {
+    "Name": "BOWMAN",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63.65
+  },
+  {
+    "Name": "DAVIDSON",
+    "Batch": "BCJ11",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "M Tech",
+    "Score": 75
+  },
+  {
+    "Name": "MAY",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63.04
+  },
+  {
+    "Name": "DAY",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M Tech",
+    "Score": 67
+  },
+  {
+    "Name": "SCHNEIDER",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M Tech",
+    "Score": 67
+  },
+  {
+    "Name": "NEWMAN",
+    "Batch": "BCJ11",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M Tech",
+    "Score": 67
+  },
+  {
+    "Name": "BREWER",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BCA",
+    "Score": 70
+  },
+  {
+    "Name": "LUCAS",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "HOLLAND",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "WONG",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "BANKS",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 70
+  },
+  {
+    "Name": "SANTOS",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "CURTIS",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "PEARSON",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "DELGADO",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "VALDEZ",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "PENA",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "RIOS",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 79.74
+  },
+  {
+    "Name": "DOUGLAS",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63
+  },
+  {
+    "Name": "SANDOVAL",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63
+  },
+  {
+    "Name": "BARRETT",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63
+  },
+  {
+    "Name": "HOPKINS",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63
+  },
+  {
+    "Name": "KELLER",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 69
+  },
+  {
+    "Name": "GUERRERO",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 68.48
+  },
+  {
+    "Name": "STANLEY",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 64.7
+  },
+  {
+    "Name": "BATES",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65.7
+  },
+  {
+    "Name": "ALVARADO",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 66.7
+  },
+  {
+    "Name": "BECK",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 80
+  },
+  {
+    "Name": "ORTEGA",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 74.34
+  },
+  {
+    "Name": "WADE",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 81
+  },
+  {
+    "Name": "ESTRADA",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M Tech",
+    "Score": 70
+  },
+  {
+    "Name": "CONTRERAS",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 64.7
+  },
+  {
+    "Name": "BARNETT",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69.5
+  },
+  {
+    "Name": "CALDWELL",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 55
+  },
+  {
+    "Name": "SANTIAGO",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 78
+  },
+  {
+    "Name": "LAMBERT",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 79.29
+  },
+  {
+    "Name": "POWERS",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 60
+  },
+  {
+    "Name": "CHAMBERS",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 63.56
+  },
+  {
+    "Name": "NUNEZ",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "CRAIG",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M Sc",
+    "Score": 72
+  },
+  {
+    "Name": "LEONARD",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70.43
+  },
+  {
+    "Name": "LOWE",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62.6
+  },
+  {
+    "Name": "RHODES",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65.28
+  },
+  {
+    "Name": "BYRD",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69.8
+  },
+  {
+    "Name": "GREGORY",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71
+  },
+  {
+    "Name": "SHELTON",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 74.79
+  },
+  {
+    "Name": "FRAZIER",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 71.5
+  },
+  {
+    "Name": "BECKER",
+    "Batch": "BCJ12",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69.69
+  },
+  {
+    "Name": "MALDONADO",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 55.15
+  },
+  {
+    "Name": "FLEMING",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "VEGA",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69
+  },
+  {
+    "Name": "SUTTON",
+    "Batch": "BCJ12",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "B Tech",
+    "Score": 69
+  },
+  {
+    "Name": "COHEN",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 74.74
+  },
+  {
+    "Name": "JENNINGS",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61.07
+  },
+  {
+    "Name": "PARKS",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 82
+  },
+  {
+    "Name": "MCDANIEL",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 72.5
+  },
+  {
+    "Name": "WATTS",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 72.5
+  },
+  {
+    "Name": "BARKER",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 72.3
+  },
+  {
+    "Name": "NORRIS",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "VAUGHN",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 75
+  },
+  {
+    "Name": "VAZQUEZ",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 66
+  },
+  {
+    "Name": "HOLT",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 60
+  },
+  {
+    "Name": "SCHWARTZ",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71
+  },
+  {
+    "Name": "STEELE",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71
+  },
+  {
+    "Name": "BENSON",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 58
+  },
+  {
+    "Name": "NEAL",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "M.Tech",
+    "Score": 72
+  },
+  {
+    "Name": "DOMINGUEZ",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BSc",
+    "Score": 72
+  },
+  {
+    "Name": "HORTON",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "TERRY",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 65
+  },
+  {
+    "Name": "WOLFE",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 74
+  },
+  {
+    "Name": "HALE",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 73.33
+  },
+  {
+    "Name": "LYONS",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M.Tech",
+    "Score": 76.8
+  },
+  {
+    "Name": "GRAVES",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "HAYNES",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 66
+  },
+  {
+    "Name": "MILES",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 78
+  },
+  {
+    "Name": "PARK",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 60.56
+  },
+  {
+    "Name": "WARNER",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BCA",
+    "Score": 65
+  },
+  {
+    "Name": "PADILLA",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 66.36
+  },
+  {
+    "Name": "BUSH",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 63.4
+  },
+  {
+    "Name": "THORNTON",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70.5
+  },
+  {
+    "Name": "MCCARTHY",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 58
+  },
+  {
+    "Name": "MANN",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M.Tech",
+    "Score": 76
+  },
+  {
+    "Name": "ZIMMERMAN",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "ERICKSON",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M.Tech",
+    "Score": 89
+  },
+  {
+    "Name": "FLETCHER",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63.63
+  },
+  {
+    "Name": "MCKINNEY",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 68.12
+  },
+  {
+    "Name": "PAGE",
+    "Batch": "BCJ13",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 78
+  },
+  {
+    "Name": "DAWSON",
+    "Batch": "BCJ13",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 82
+  },
+  {
+    "Name": "JOSEPH",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 75
+  },
+  {
+    "Name": "MARQUEZ",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66
+  },
+  {
+    "Name": "REEVES",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 80
+  },
+  {
+    "Name": "KLEIN",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 73
+  },
+  {
+    "Name": "ESPINOZA",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 64.8
+  },
+  {
+    "Name": "BALDWIN",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 73
+  },
+  {
+    "Name": "MORAN",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 59
+  },
+  {
+    "Name": "LOVE",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "M Tech",
+    "Score": 80
+  },
+  {
+    "Name": "ROBBINS",
+    "Batch": "BCJ14",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 65
+  },
+  {
+    "Name": "HIGGINS",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 81
+  },
+  {
+    "Name": "BALL",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 81
+  },
+  {
+    "Name": "CORTEZ",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 80
+  },
+  {
+    "Name": "LE",
+    "Batch": "BCJ14",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 55
+  },
+  {
+    "Name": "GRIFFITH",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 64
+  },
+  {
+    "Name": "BOWEN",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 62.85
+  },
+  {
+    "Name": "SHARP",
+    "Batch": "BCJ14",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 64
+  },
+  {
+    "Name": "CUMMINGS",
+    "Batch": "BCJ14",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 72
+  },
+  {
+    "Name": "RAMSEY",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 82
+  },
+  {
+    "Name": "HARDY",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61.24
+  },
+  {
+    "Name": "SWANSON",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69.19
+  },
+  {
+    "Name": "BARBER",
+    "Batch": "BCJ14",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "M Tech",
+    "Score": 75.14
+  },
+  {
+    "Name": "ACOSTA",
+    "Batch": "BCJ14",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M Tech",
+    "Score": 76.14
+  },
+  {
+    "Name": "LUNA",
+    "Batch": "BCJ14",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 75
+  },
+  {
+    "Name": "CHANDLER",
+    "Batch": "BCJ14",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 75
+  },
+  {
+    "Name": "BLAIR",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "DANIEL",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 73
+  },
+  {
+    "Name": "CROSS",
+    "Batch": "BCJ14",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 74
+  },
+  {
+    "Name": "SIMON",
+    "Batch": "BCJ14",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 75
+  },
+  {
+    "Name": "DENNIS",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 79
+  },
+  {
+    "Name": "OCONNOR",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61.62
+  },
+  {
+    "Name": "QUINN",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "GROSS",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 78
+  },
+  {
+    "Name": "NAVARRO",
+    "Batch": "BCJ14",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 61
+  },
+  {
+    "Name": "MOSS",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 72.52
+  },
+  {
+    "Name": "FITZGERALD",
+    "Batch": "BCJ14",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 76
+  },
+  {
+    "Name": "DOYLE",
+    "Batch": "BCJ14",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M Sc",
+    "Score": 71.8
+  },
+  {
+    "Name": "MCLAUGHLIN",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "MCA",
+    "Score": 72.6
+  },
+  {
+    "Name": "ROJAS",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 72.6
+  },
+  {
+    "Name": "RODGERS",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 51
+  },
+  {
+    "Name": "STEVENSON",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 51
+  },
+  {
+    "Name": "SINGH",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71.1
+  },
+  {
+    "Name": "YANG",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 73
+  },
+  {
+    "Name": "FIGUEROA",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 73
+  },
+  {
+    "Name": "HARMON",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 82
+  },
+  {
+    "Name": "NEWTON",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63
+  },
+  {
+    "Name": "PAUL",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67.36
+  },
+  {
+    "Name": "MANNING",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "GARNER",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 59
+  },
+  {
+    "Name": "MCGEE",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "B Tech",
+    "Score": 68
+  },
+  {
+    "Name": "REESE",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 56
+  },
+  {
+    "Name": "FRANCIS",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 65
+  },
+  {
+    "Name": "BURGESS",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "B Tech",
+    "Score": 64
+  },
+  {
+    "Name": "ADKINS",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 60
+  },
+  {
+    "Name": "GOODMAN",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "B Tech",
+    "Score": 62
+  },
+  {
+    "Name": "CURRY",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "BRADY",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 68
+  },
+  {
+    "Name": "CHRISTENSEN",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "POTTER",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "B Tech",
+    "Score": 74
+  },
+  {
+    "Name": "WALTON",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "B Tech",
+    "Score": 69
+  },
+  {
+    "Name": "GOODWIN",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 63
+  },
+  {
+    "Name": "MULLINS",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "MOLINA",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 76.1
+  },
+  {
+    "Name": "WEBSTER",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 76.25
+  },
+  {
+    "Name": "FISCHER",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "CAMPOS",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "AVILA",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 68.84
+  },
+  {
+    "Name": "SHERMAN",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "TODD",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BCA",
+    "Score": 50
+  },
+  {
+    "Name": "CHANG",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "BLAKE",
+    "Batch": "BCJ15",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 60.9
+  },
+  {
+    "Name": "MALONE",
+    "Batch": "BCJ15",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "WOLF",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 58
+  },
+  {
+    "Name": "HODGES",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "JUAREZ",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 71
+  },
+  {
+    "Name": "GILL",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "B Tech",
+    "Score": 63
+  },
+  {
+    "Name": "FARMER",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67
+  },
+  {
+    "Name": "HINES",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 72.92
+  },
+  {
+    "Name": "GALLAGHER",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "DURAN",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "HUBBARD",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 54
+  },
+  {
+    "Name": "CANNON",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65.14
+  },
+  {
+    "Name": "MIRANDA",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71
+  },
+  {
+    "Name": "WANG",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63
+  },
+  {
+    "Name": "SAUNDERS",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "TATE",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 74.04
+  },
+  {
+    "Name": "MACK",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 74.04
+  },
+  {
+    "Name": "HAMMOND",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "Dip",
+    "Score": 56
+  },
+  {
+    "Name": "CARRILLO",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 66
+  },
+  {
+    "Name": "TOWNSEND",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67
+  },
+  {
+    "Name": "WISE",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "INGRAM",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 80.6
+  },
+  {
+    "Name": "BARTON",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 72
+  },
+  {
+    "Name": "MEJIA",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 63.01
+  },
+  {
+    "Name": "AYALA",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 74
+  },
+  {
+    "Name": "SCHROEDER",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67.11
+  },
+  {
+    "Name": "HAMPTON",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "ROWE",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "PARSONS",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "M Tech",
+    "Score": 72
+  },
+  {
+    "Name": "FRANK",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "M Tech",
+    "Score": 73.35
+  },
+  {
+    "Name": "WATERS",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 57.45
+  },
+  {
+    "Name": "STRICKLAND",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 55.2
+  },
+  {
+    "Name": "OSBORNE",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67.84
+  },
+  {
+    "Name": "MAXWELL",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 67.1
+  },
+  {
+    "Name": "CHAN",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 72
+  },
+  {
+    "Name": "DELEON",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "NORMAN",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 83
+  },
+  {
+    "Name": "HARRINGTON",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65.65
+  },
+  {
+    "Name": "CASEY",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 73
+  },
+  {
+    "Name": "PATTON",
+    "Batch": "BCJ16",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 69
+  },
+  {
+    "Name": "LOGAN",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "BOWERS",
+    "Batch": "BCJ16",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 70
+  },
+  {
+    "Name": "MUELLER",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 63.14
+  },
+  {
+    "Name": "GLOVER",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 54
+  },
+  {
+    "Name": "FLOYD",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 60.6
+  },
+  {
+    "Name": "HARTMAN",
+    "Batch": "BCJ2",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 61.32
+  },
+  {
+    "Name": "BUCHANAN",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69.52
+  },
+  {
+    "Name": "COBB",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71.5
+  },
+  {
+    "Name": "FRENCH",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 69.7
+  },
+  {
+    "Name": "KRAMER",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 56.57
+  },
+  {
+    "Name": "MCCORMICK",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "CLARKE",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67
+  },
+  {
+    "Name": "TYLER",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 60.5
+  },
+  {
+    "Name": "GIBBS",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 53
+  },
+  {
+    "Name": "MOODY",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 75
+  },
+  {
+    "Name": "CONNER",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67
+  },
+  {
+    "Name": "SPARKS",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 78
+  },
+  {
+    "Name": "MCGUIRE",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 60
+  },
+  {
+    "Name": "LEON",
+    "Batch": "BCJ2",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "M Tech",
+    "Score": 67
+  },
+  {
+    "Name": "BAUER",
+    "Batch": "BCJ2",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "M Tech",
+    "Score": 63.88
+  },
+  {
+    "Name": "NORTON",
+    "Batch": "BCJ2",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 63
+  },
+  {
+    "Name": "POPE",
+    "Batch": "BCJ2",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 68
+  },
+  {
+    "Name": "FLYNN",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67
+  },
+  {
+    "Name": "HOGAN",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "B Sc",
+    "Score": 89
+  },
+  {
+    "Name": "ROBLES",
+    "Batch": "BCJ2",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "SALINAS",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 67
+  },
+  {
+    "Name": "YATES",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 58.33
+  },
+  {
+    "Name": "LINDSEY",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 57
+  },
+  {
+    "Name": "LLOYD",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "M Tech",
+    "Score": 82
+  },
+  {
+    "Name": "MARSH",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63
+  },
+  {
+    "Name": "MCBRIDE",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 60
+  },
+  {
+    "Name": "OWEN",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 56.52
+  },
+  {
+    "Name": "SOLIS",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 77
+  },
+  {
+    "Name": "PHAM",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "LANG",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "PRATT",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65.31
+  },
+  {
+    "Name": "LARA",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 66.66
+  },
+  {
+    "Name": "BROCK",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 59.49
+  },
+  {
+    "Name": "BALLARD",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 64.1
+  },
+  {
+    "Name": "TRUJILLO",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 64
+  },
+  {
+    "Name": "SHAFFER",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "DRAKE",
+    "Batch": "BCJ3",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "ROMAN",
+    "Batch": "BCJ3",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "AGUIRRE",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62
+  },
+  {
+    "Name": "MORTON",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 71.51
+  },
+  {
+    "Name": "STOKES",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "MCA",
+    "Score": 72
+  },
+  {
+    "Name": "LAMB",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 66.5
+  },
+  {
+    "Name": "PACHECO",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 62.72
+  },
+  {
+    "Name": "PATRICK",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 60.57
+  },
+  {
+    "Name": "COCHRAN",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 56
+  },
+  {
+    "Name": "SHEPHERD",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63
+  },
+  {
+    "Name": "CAIN",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 75
+  },
+  {
+    "Name": "BURNETT",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 72.9
+  },
+  {
+    "Name": "HESS",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 58.83
+  },
+  {
+    "Name": "LI",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 63.63
+  },
+  {
+    "Name": "CERVANTES",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "OLSEN",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 61
+  },
+  {
+    "Name": "BRIGGS",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "OCHOA",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 72.5
+  },
+  {
+    "Name": "CABRERA",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 64.8
+  },
+  {
+    "Name": "VELASQUEZ",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 65
+  },
+  {
+    "Name": "MONTOYA",
+    "Batch": "BCJ4",
+    "Completed": "Y",
+    "Placed": "Y",
+    "Qualification": "BE",
+    "Score": 71.04
+  },
+  {
+    "Name": "ROTH",
+    "Batch": "BCJ4",
+    "Completed": "N",
+    "Placed": "N",
+    "Qualification": "BE",
+    "Score": 74.2
+  }
+]
