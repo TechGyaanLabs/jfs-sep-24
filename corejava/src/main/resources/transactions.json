@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "transaction1",
+        "date": "2024-01-01",
+        "amount": 1000
+    },
+    {
+        "id": 2,
+        "name": "transaction2",
+        "date": "2024-01-02",
+        "amount": 2000
+    },
+    {
+        "id": 3,
+        "name": "transaction3",
+        "date": "2024-01-03",
+        "amount": 3000
+
+    }
+]
