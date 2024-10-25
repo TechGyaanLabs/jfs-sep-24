@@ -36,11 +36,16 @@ public class CollectionsSorting {
 
         System.out.println(dataList);
 
-        List<String> list1 = dataList.stream().sorted().toList();
+        List<String> list1 = dataList
+                .stream()
+                .sorted()
+                .toList();
         System.out.println(list1);
 
 
         List<String> list2 = dataList.stream().sorted(Comparator.reverseOrder()).toList();
         System.out.println(list2);
+
+
     }
 }

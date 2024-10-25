@@ -1,0 +1,25 @@
+[ {
+  "lengthOfName" : 6,
+  "shortName" : "RAJ",
+  "name" : "Rajesh"
+}, {
+  "lengthOfName" : 6,
+  "shortName" : "CHA",
+  "name" : "Charan"
+}, {
+  "lengthOfName" : 5,
+  "shortName" : "KIR",
+  "name" : "Kiran"
+}, {
+  "lengthOfName" : 2,
+  "shortName" : "CV",
+  "name" : "CV"
+}, {
+  "lengthOfName" : 6,
+  "shortName" : "JAY",
+  "name" : "Jayesh"
+}, {
+  "lengthOfName" : 6,
+  "shortName" : "RAM",
+  "name" : "Ramesh"
+} ]
