@@ -1,0 +1,17 @@
+[
+  {
+    "dept_id": "D001",
+    "dept_name": "IT",
+    "location": "New York"
+  },
+  {
+    "dept_id": "D002",
+    "dept_name": "Finance",
+    "location": "San Francisco"
+  },
+  {
+    "dept_id": "D003",
+    "dept_name": "Marketing",
+    "location": "Chicago"
+  }
+]

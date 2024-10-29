@@ -44,11 +44,8 @@ public class IplStatsServiceImpl implements IplStatsService {
         return teamDetailsList
                 .stream()
                 .map(teamDetails -> {
-                    TeamAmountStatsDto teamAmountStatsDto = new TeamAmountStatsDto();
-                    teamAmountStatsDto.setName(teamDetails.getName());
-                    teamAmountStatsDto.setLabel(teamDetails.getLabel());
-                    teamAmountStatsDto.setAmount(teamDetails.getPlayers().stream().mapToDouble(Player::getPrice).sum());
-                    return teamAmountStatsDto;
+                    double amount = teamDetails.getPlayers().stream().mapToDouble(Player::getPrice).sum();
+                    return new TeamAmountStatsDto(teamDetails.getName(),teamDetails.getLabel(),amount);
                 }).toList();
     }
 

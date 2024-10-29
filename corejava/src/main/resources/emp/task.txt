@@ -1,0 +1,18 @@
+1. Get the employee details from the file and display the employee details in the below format
+
+    empno,ename,dname,projects (Project1,Project2,Project3)
+
+2. Get the total salary spent by each department
+
+    dname, totalSalary
+
+3. Get the maximum salary paid to each department
+
+    dname, maxSalary
+
+4. Get total salary spent by the company
+
+5. Get salary statistics of the company (min, max, avg, sum)
+
+
+

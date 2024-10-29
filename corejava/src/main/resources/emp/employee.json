@@ -1,0 +1,92 @@
+[
+  {
+    "employee_id": 1,
+    "name": "Alice Smith",
+    "location": "New York",
+    "manager": 4,
+    "salary": 75000,
+    "project_ids": ["P101", "P102"],
+    "dept_id": "D001"
+  },
+  {
+    "employee_id": 2,
+    "name": "Bob Johnson",
+    "location": "San Francisco",
+    "manager": 1,
+    "salary": 68000,
+    "project_ids": ["P201"],
+    "dept_id": "D002"
+  },
+  {
+    "employee_id": 3,
+    "name": "Carol White",
+    "location": "Chicago",
+    "manager": 1,
+    "salary": 71000,
+    "project_ids": ["P301", "P302"],
+    "dept_id": "D003"
+  },
+  {
+    "employee_id": 4,
+    "name": "David Brown",
+    "location": "Boston",
+    "manager": 10,
+    "salary": 80000,
+    "project_ids": ["P401"],
+    "dept_id": "D001"
+  },
+  {
+    "employee_id": 5,
+    "name": "Emma Wilson",
+    "location": "New York",
+    "manager": 1,
+    "salary": 75000,
+    "project_ids": ["P101", "P103"],
+    "dept_id": "D001"
+  },
+  {
+    "employee_id": 6,
+    "name": "Frank Taylor",
+    "location": "Austin",
+    "manager": 5,
+    "salary": 72000,
+    "project_ids": ["P202"],
+    "dept_id": "D002"
+  },
+  {
+    "employee_id": 7,
+    "name": "Grace Lee",
+    "location": "Chicago",
+    "manager": 1,
+    "salary": 69000,
+    "project_ids": ["P303"],
+    "dept_id": "D003"
+  },
+  {
+    "employee_id": 8,
+    "name": "Hank Martin",
+    "location": "San Francisco",
+    "manager": 10,
+    "salary": 77000,
+    "project_ids": ["P203"],
+    "dept_id": "D002"
+  },
+  {
+    "employee_id": 9,
+    "name": "Ivy Clark",
+    "location": "Boston",
+    "manager": 10,
+    "salary": 78000,
+    "project_ids": ["P402"],
+    "dept_id": "D001"
+  },
+  {
+    "employee_id": 10,
+    "name": "Jack Miller",
+    "location": "Seattle",
+    "manager": 1,
+    "salary": 85000,
+    "project_ids": ["P105"],
+    "dept_id": "D004"
+  }
+]

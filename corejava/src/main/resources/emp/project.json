@@ -1,0 +1,27 @@
+[
+  {
+    "project_id": "P101",
+    "project_name": "Web Development",
+    "location": "New York"
+  },
+  {
+    "project_id": "P102",
+    "project_name": "Mobile App",
+    "location": "San Francisco"
+  },
+  {
+    "project_id": "P201",
+    "project_name": "Financial Analysis",
+    "location": "San Francisco"
+  },
+  {
+    "project_id": "P301",
+    "project_name": "Social Media Strategy",
+    "location": "Chicago"
+  },
+  {
+    "project_id": "P401",
+    "project_name": "Lead Generation",
+    "location": "Boston"
+  }
+]
