@@ -12,6 +12,7 @@
         <module>corejava</module>
         <module>interview-questions</module>
         <module>ipl-stats-app</module>
+        <module>learning-jdbc</module>
 
     </modules>
 
@@ -24,6 +25,7 @@
         <jackson-databind.version>2.17.2</jackson-databind.version>
         <json-path.version>2.9.0</json-path.version>
         <jackson.datatype.jsr310.version>2.18.0</jackson.datatype.jsr310.version>
+        <postgresql.version>42.7.4</postgresql.version>
     </properties>
 
     <dependencyManagement>
@@ -54,7 +56,11 @@
                 <artifactId>jackson-datatype-jsr310</artifactId>
                 <version>${jackson.datatype.jsr310.version}</version>
             </dependency>
-
+            <dependency>
+                <groupId>org.postgresql</groupId>
+                <artifactId>postgresql</artifactId>
+                <version>${postgresql.version}</version>
+            </dependency>
         </dependencies>
 
     </dependencyManagement>
