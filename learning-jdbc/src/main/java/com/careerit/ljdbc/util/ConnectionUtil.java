@@ -1,4 +1,4 @@
-package com.careerit.ljdbc;
+package com.careerit.ljdbc.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
