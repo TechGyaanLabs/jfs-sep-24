@@ -1,0 +1,30 @@
+tenant:
+  - name : pes
+    message: Welcome to the PES environment
+    website: www.pes.com
+    address:
+        city: Bangalore
+        state: Karnataka
+        country: India
+  - name : qe
+    message: Welcome to the QE environment
+    website: www.qe.com
+    address:
+        city: Bangalore
+        state: Karnataka
+        country: India
+  - name: dev
+    message: Welcome to the DEV environment
+    website: www.dev.com
+    address:
+        city: Bangalore
+        state: Karnataka
+        country: India
+  - name: prod
+    message: Welcome to the PROD environment
+    website: www.prod.com
+    address:
+        city: Bangalore
+        state: Karnataka
+        country: India
+

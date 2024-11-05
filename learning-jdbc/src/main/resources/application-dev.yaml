@@ -1,0 +1,13 @@
+message: Welcome to the QA environment
+app:
+  user:
+    name: admin
+    password: admin
+    role: ADMIN
+    email:
+      - admin@gmail.com
+      - admin@spacex.com
+    address:
+        city: Chennai
+        state: Tamilnadu
+        country: India
