@@ -14,7 +14,7 @@
         <module>ipl-stats-app</module>
         <module>learning-jdbc</module>
         <module>learning-sql</module>
-
+        <module>cbook-server-app</module>
     </modules>
 
     <properties>

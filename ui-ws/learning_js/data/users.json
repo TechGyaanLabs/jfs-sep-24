@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@gmail.com",
+        "mobile": "9087654322"
+    },
+    {
+        "id": 2,
+        "name": "Krishna",
+        "email": "krish.t@gmail.com",
+        "mobile": "9876543210"
+    },
+    {
+        "id": 3,
+        "name": "Rama",
+        "email": "rama@gmail.com",
+        "mobile": "9876543213"
+    }
+    
+]

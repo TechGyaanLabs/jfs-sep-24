@@ -1,0 +1,44 @@
+.sub-heading{
+    color: white;
+    background-color: crimson;
+    padding: 5px 2px 5px 3px;
+}
+
+#special-element{
+    color: white;
+    background-color: green;
+    padding: 5px 2px 5px 3px;
+}
+
+#result{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+    margin: auto;
+    font-size: 15px;
+}
+
+#result td, #result th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#result th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #04AA6D;
+    color: white;
+}
+
+td.maxscore, td.score{
+    text-align: right;
+}
+
+#result tr:hover {background-color: #ddd;}
+
+#idBulb{
+    border: 1px solid gray;
+    padding: 25px;
+    border-radius: 20px;
+}
+
