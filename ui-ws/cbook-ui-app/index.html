@@ -8,12 +8,24 @@
   </head>
   <body>
     
-        <div class="py-2 text-white bg-primary text-center">
-            <h2>Contact Book Application</h2>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi commodi accusantium nisi nesciunt, dolores vel suscipit. Quae accusamus repudiandae ex! Recusandae quia maiores quibusdam quam numquam corporis consectetur dicta alias.
-            </p>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">LearningUI</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="iplstats.html">IPL Stats</a>
+              </li>
+            </ul>
+          </div>
         </div>
+      </nav>
         <div class="container mt-5">
 
             <div class="row">
@@ -44,8 +56,9 @@
                             <label for="idPhone" class="form-label">Mobile</label>
                             <input type="text" class="form-control" id="idPhone" name="phone">
                         </div>
-                       <button class="btn btn-primary" onclick="addContact();">Add Contact</button>
-                       <button class="btn btn-primary" style="display: none;" onclick="updateContact()">Update Contact</button>
+                       <button class="btn btn-primary" id="idAddContact">Add Contact</button>
+                       <button class="btn btn-primary"  id="idUpdateContact" style="display: none;">Update Contact</button>
+                   </form>
                 </div>
             </div>
                 
