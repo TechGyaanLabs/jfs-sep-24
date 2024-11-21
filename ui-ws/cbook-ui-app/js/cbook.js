@@ -1,4 +1,4 @@
-const baseURL = 'http://localhost:8080/v1/contact';
+const baseURL = 'https://ipl-stats-server-app.onrender.com/v1/contact';
 
 
 function fetchContactsAndShow(){
