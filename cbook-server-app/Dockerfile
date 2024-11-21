@@ -25,7 +25,7 @@ FROM eclipse-temurin:21-jdk-jammy
 WORKDIR /cbook-server-app
 
 # Copy the built JAR file from the build stage
-COPY --from=build /app/target/cbook-server-app-1.0-SNAPSHOT.jar cbook-server-app.jar
+COPY --from=build /app/target/cbook-server-app-0.0.1-SNAPSHOT.jar cbook-server-app.jar
 
 # Expose the default Spring Boot port
 EXPOSE 8080
