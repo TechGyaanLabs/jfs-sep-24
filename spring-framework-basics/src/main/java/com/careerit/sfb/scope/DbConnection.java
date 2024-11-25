@@ -1,0 +1,15 @@
+package com.careerit.sfb.scope;
+
+
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Component;
+
+@Component
+@Scope("singleton")
+public class DbConnection {
+
+    public String getConnectionName(){
+        return "POSTGRES-DB";
+    }
+
+}

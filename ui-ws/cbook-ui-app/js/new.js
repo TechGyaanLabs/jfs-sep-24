@@ -46,7 +46,7 @@ async function getNews(country = DEFAULT_COUNTRY, category = DEFAULT_CATEGORY) {
 
 function displayNews(articles) {
     const newsHtml = articles.map(article => `
-        <div class="col-md-8 mb-4 offset-md-2">
+        <div class="col-md-8 mb-4">
             <div class="card h-100">
                 ${article.urlToImage ? `<img src="${article.urlToImage}" class="card-img-top" alt="${article.title}">` : ''}
                 <div class="card-body">
