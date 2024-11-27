@@ -17,6 +17,7 @@
         <module>cbook-server-app</module>
         <module>hello-world</module>
         <module>spring-framework-basics</module>
+        <module>cbook-with-springboot-jdbc</module>
     </modules>
 
     <properties>
