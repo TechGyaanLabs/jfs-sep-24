@@ -3,6 +3,7 @@ package com.careerit.cbook.service;
 import com.careerit.cbook.dao.ContactDao;
 import com.careerit.cbook.domain.Contact;
 import com.careerit.cbook.exception.ContactAlreadyExistsException;
+import com.careerit.cbook.exception.ContactNotFoundException;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
@@ -54,8 +55,14 @@ public class ContactServiceImpl implements ContactService{
     }
 
     @Override
-    public Optional<Contact> getContact(UUID id) {
-        return Optional.empty();
+    public Contact getContact(UUID id) {
+        Optional<Contact> contact = contactDao.selectContact(id);
+        if(contact.isPresent()){
+            log.info("Contact with id {} found",id);
+            return contact.get();
+        }
+        log.info("Contact with id {} not found",id);
+        throw new ContactNotFoundException("Contact with id "+id+" not found");
     }
 
     @Override

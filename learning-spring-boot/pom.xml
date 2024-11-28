@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.careerit</groupId>
-	<artifactId>hello-world</artifactId>
+	<artifactId>learning-spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hello-world</name>
 	<description>Simple Demo Application</description>

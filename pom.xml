@@ -15,7 +15,7 @@
         <module>learning-jdbc</module>
         <module>learning-sql</module>
         <module>cbook-server-app</module>
-        <module>hello-world</module>
+        <module>learning-spring-boot</module>
         <module>spring-framework-basics</module>
         <module>cbook-with-springboot-jdbc</module>
     </modules>
