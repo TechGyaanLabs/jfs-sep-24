@@ -18,7 +18,7 @@
         <module>learning-spring-boot</module>
         <module>spring-framework-basics</module>
         <module>cbook-with-springboot-jdbc</module>
-    </modules>
+      </modules>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
