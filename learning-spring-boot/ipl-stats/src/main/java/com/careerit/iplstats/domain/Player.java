@@ -15,6 +15,7 @@ import java.util.UUID;
 public class Player {
 
         @Id
+        @GeneratedValue(strategy = GenerationType.UUID)
         private UUID id;
         @Column(name = "name")
         private String name;
@@ -24,4 +25,6 @@ public class Player {
         private String country;
         @Column(name = "team")
         private String team;
+        @Column(name = "price")
+        private double price;
 }
