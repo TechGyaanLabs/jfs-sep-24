@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/v1/iplstats/players")
+@RequestMapping("/api/v1/ipl/players")
 @RequiredArgsConstructor
 public class PlayerController {
 
@@ -30,8 +30,10 @@ public class PlayerController {
     }
 
     @GetMapping("/list-page")
-    public ApiResponse<Page<PlayerDto>> findPlayers(@RequestParam(defaultValue = "1",name = "page") int pageNum, @RequestParam(defaultValue = "10",name = "size") int pageSize){
-        return ApiResponse.success(playerService.findPlayers(Pageable.ofSize(pageSize).withPage(pageNum)));
+    public ApiResponse<Page<PlayerDto>> findPlayers(Pageable pageable,
+                                                    @RequestParam(defaultValue = "")String searchTerm){
+        return ApiResponse.success(playerService.findPlayers(pageable
+                ,searchTerm));
     }
 
 }

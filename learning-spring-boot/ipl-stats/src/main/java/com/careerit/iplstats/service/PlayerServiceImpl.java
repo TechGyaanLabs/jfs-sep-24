@@ -11,6 +11,7 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.util.Assert;
+import org.springframework.util.StringUtils;
 
 import java.util.List;
 
@@ -45,9 +46,13 @@ public class PlayerServiceImpl implements PlayerService {
     }
 
     @Override
-    public Page<PlayerDto> findPlayers(Pageable pageable) {
-        Page<Player> playerPage = playerRepository.findAll(pageable);
-        return playerPage.map(player -> objectConvertor.toDto(player, PlayerDto.class));
+    public Page<PlayerDto> findPlayers(Pageable pageable, String searchTerm) {
+        if(StringUtils.hasText(searchTerm)){
+           return  playerRepository.search(searchTerm,pageable).map(player -> objectConvertor.toDto(player, PlayerDto.class));
+        }else{
+            return playerRepository.findAll(pageable).map(player -> objectConvertor.toDto(player, PlayerDto.class));
+        }
+
 
     }
 

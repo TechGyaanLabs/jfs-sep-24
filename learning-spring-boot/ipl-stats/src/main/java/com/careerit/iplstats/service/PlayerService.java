@@ -9,6 +9,6 @@ import java.util.List;
 public interface PlayerService {
         PlayerDto addPlayer(PlayerDto playerDto);
         List<PlayerDto> addPlayers(List<PlayerDto> playerDtos);
-        Page<PlayerDto> findPlayers(Pageable pageable);
+        Page<PlayerDto> findPlayers(Pageable pageable,String searchTerm);
 
 }
