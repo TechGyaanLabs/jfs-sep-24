@@ -19,5 +19,8 @@
         <changeSet id="2" author="careerit">
             <sqlFile path="db/changelogs/2024-11/V2__add_app_user_table.sql" splitStatements="true" stripComments="true"/>
         </changeSet>
+        <changeSet id="3" author="careerit">
+            <sqlFile path="db/changelogs/2024-11/V3__create_team_details_table.sql" splitStatements="true" stripComments="true"/>
+        </changeSet>
 
 </databaseChangeLog>

@@ -1,6 +1,7 @@
 package com.careerit.iplstats.api;
 
 
+import com.careerit.iplstats.records.TeamNames;
 import com.careerit.iplstats.service.IplStatsService;
 import com.careerit.iplstats.util.ApiResponse;
 import lombok.RequiredArgsConstructor;
@@ -19,7 +20,7 @@ public class IplStatsController {
         private final IplStatsService iplStatsService;
 
         @GetMapping("/team-names")
-        public ApiResponse<Set<String>> getTeamNames(){
+        public ApiResponse<TeamNames> getTeamNames(){
             return ApiResponse.success(iplStatsService.getTeamNames());
         }
 

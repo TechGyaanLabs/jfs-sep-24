@@ -1,7 +1,7 @@
 package com.careerit.iplstats.service;
 
-import java.util.Set;
+import com.careerit.iplstats.records.TeamNames;
 
 public interface IplStatsService {
-    Set<String> getTeamNames();
+    TeamNames getTeamNames();
 }

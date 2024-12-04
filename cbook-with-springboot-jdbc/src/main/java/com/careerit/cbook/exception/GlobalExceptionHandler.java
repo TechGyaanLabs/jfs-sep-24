@@ -16,6 +16,12 @@ public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
         apiResponse.addError(ex.getMessage());
         return ResponseEntity.status(HttpStatus.CONFLICT).body(apiResponse);
     }
+    @ExceptionHandler(Exception.class)
+    public ResponseEntity<ApiResponse<String>> handleException(Exception ex){
+        ApiResponse<String> apiResponse = new ApiResponse<>();
+        apiResponse.addError(ex.getMessage());
+        return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(apiResponse);
+    }
 
     @ExceptionHandler(ContactNotFoundException.class)
     public ResponseEntity<ApiResponse<String>> handleContactNotFoundException(ContactNotFoundException ex){
