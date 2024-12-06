@@ -24,21 +24,21 @@ public class TeamDetailsServiceImpl implements TeamDetailsService {
 
     @Override
     public TeamDetailsDto addTeam(TeamDetailsDto teamDetailsDto) {
-        Assert.notNull(teamDetailsDto,"Team details should not be null");
-        Assert.hasText(teamDetailsDto.getName(),"Team name should not be null or empty");
+        Assert.notNull(teamDetailsDto, "Team details should not be null");
+        Assert.hasText(teamDetailsDto.getName(), "Team name should not be null or empty");
         Assert.hasText(teamDetailsDto.getTeam(), "Team should not be null or empty");
-        if(isTeamExists(teamDetailsDto.getTeam())){
-            throw new TeamAlreadyExistsException("Team "+teamDetailsDto.getTeam()+" already exists");
+        if (isTeamExists(teamDetailsDto.getTeam())) {
+            throw new TeamAlreadyExistsException("Team " + teamDetailsDto.getTeam() + " already exists");
         }
         TeamDetails teamDetails = objectMapper.convertValue(teamDetailsDto, TeamDetails.class);
         TeamDetails savedTeamDetails = teamDetailsRepo.save(teamDetails);
         teamDetailsDto = objectMapper.convertValue(savedTeamDetails, TeamDetailsDto.class);
-        log.info("Team {} added successfully",teamDetailsDto.getTeam());
+        log.info("Team {} added successfully", teamDetailsDto.getTeam());
         return teamDetailsDto;
     }
 
     private boolean isTeamExists(String team) {
-        Optional<TeamDetails> optionalTeamDetails =  teamDetailsRepo.findByTeam(team);
+        Optional<TeamDetails> optionalTeamDetails = teamDetailsRepo.findByTeam(team);
         return optionalTeamDetails.isPresent();
     }
 
@@ -47,8 +47,23 @@ public class TeamDetailsServiceImpl implements TeamDetailsService {
         List<TeamDetails> teamDetailsList = teamDetailsRepo.findAll();
         List<TeamDetailsDto> teamDetailsDtoList = objectMapper.convertValue(teamDetailsList,
                 new TypeReference<List<TeamDetailsDto>>() {
-        });
-        log.info("Total {} teams found",teamDetailsDtoList.size());
+                });
+        log.info("Total {} teams found", teamDetailsDtoList.size());
         return teamDetailsDtoList;
+    }
+
+    @Override
+    public List<TeamDetailsDto> addTeams(List<TeamDetailsDto> teamDetailsDtoList) {
+
+        List<TeamDetails> teamDetailsList = objectMapper.convertValue(teamDetailsDtoList,
+                new TypeReference<List<TeamDetails>>() {
+                });
+        List<TeamDetails> savedTeamDetailsList = teamDetailsRepo.saveAll(teamDetailsList);
+
+        List<TeamDetailsDto> savedTeamDetailsDtoList = objectMapper.convertValue(savedTeamDetailsList,
+                new TypeReference<List<TeamDetailsDto>>() {
+                });
+        log.info("Total {} teams added successfully", savedTeamDetailsDtoList.size());
+        return savedTeamDetailsDtoList;
     }
 }

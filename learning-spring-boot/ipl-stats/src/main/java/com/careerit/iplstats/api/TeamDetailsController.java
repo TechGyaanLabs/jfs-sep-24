@@ -28,4 +28,10 @@ public class TeamDetailsController {
         return ListApiResponse.success(teamDetails,teamDetails.size());
     }
 
+    @PostMapping("/bulk")
+    public ListApiResponse<TeamDetailsDto> addTeams(@RequestBody List<TeamDetailsDto> teamDetailsDtoList){
+        List<TeamDetailsDto> addedTeams = teamDetailsService.addTeams(teamDetailsDtoList);
+        return ListApiResponse.success(addedTeams,addedTeams.size());
+    }
+
 }
