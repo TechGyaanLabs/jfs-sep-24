@@ -1,6 +1,5 @@
 package com.careerit.iplstats.dto;
 
-import com.careerit.iplstats.enums.Role;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -10,10 +9,7 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class RoleCountDto {
-
-    private Role role;
+public class CountryWithPlayerCountDto {
+    private String country;
     private long count;
-
-
 }
