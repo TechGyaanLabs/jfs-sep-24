@@ -11,6 +11,7 @@ import org.springframework.stereotype.Repository;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
+import java.util.stream.Collectors;
 
 @Repository
 @RequiredArgsConstructor
@@ -72,7 +73,9 @@ public class IplStatDaoImpl implements IplStatDao {
         return TeamStatsDto.builder()
                 .players(players)
                 .topPlayers(topPaidPlayers)
-                .topPaidPlayerOfEachRole(topPaidPlayersByRole)
+                .topPaidPlayerOfEachRole(
+                        topPaidPlayersByRole.stream()
+                                .collect(Collectors.groupingBy(TopPlayerDto::getRole)))
                 .build();
 
     }

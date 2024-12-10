@@ -3,6 +3,7 @@ package com.careerit.iplstats.dto;
 import lombok.*;
 
 import java.util.List;
+import java.util.Map;
 
 @Getter
 @Setter
@@ -12,7 +13,7 @@ import java.util.List;
 public class TeamStatsDto {
 
     private List<TopPlayerDto> topPlayers;
-    private List<TopPlayerDto> topPaidPlayerOfEachRole;
+    private Map<String,List<TopPlayerDto>> topPaidPlayerOfEachRole;
     private List<PlayerDto> players;
 
 }

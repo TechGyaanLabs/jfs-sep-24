@@ -9,7 +9,6 @@
 	<name>learning-spring-boot</name>
 	<description>Simple Demo Application</description>
 	<modules>
-		<module>spring-basics</module>
 		<module>ipl-stats</module>
 		<module>commons</module>
 	</modules>
