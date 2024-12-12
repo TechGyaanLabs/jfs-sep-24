@@ -195,5 +195,21 @@ async function loadTeamStats(team) {
     }
 }
 
+
+// show top paid player of each team
+async function loadTopPaidPlayers() {
+    try {
+        const { data } = await fetchData("/top-paid-players");
+        document.getElementById("teamTopPaidPlayers").innerHTML = createTable(
+            data,
+            ['Name', 'Role', 'Country', 'Team', 'Price (Cr)'],
+            ['name', 'role', 'country', 'team', 'price']
+        );
+    } catch (error) {
+        console.error('Failed to load top paid players:', error);
+    }
+}
+
 loadTeamNames(); // Load team names on page load
-initializeCharts()
+initializeCharts() // Load charts on page load
+loadTopPaidPlayers(); // Load top paid players on page load
