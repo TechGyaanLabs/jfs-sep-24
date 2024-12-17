@@ -1,5 +1,7 @@
 package com.careerit.pocproj;
 
+import com.careerit.pocproj.emailconfig.AppEmailService;
+import com.careerit.pocproj.emailconfig.SendEmailRequestDto;
 import com.careerit.pocproj.util.ExcelUtil;
 import com.careerit.pocproj.util.PdfService;
 import com.careerit.pocproj.util.Player;
@@ -35,6 +37,9 @@ public class PocProjApplication {
 	@Autowired
 	private JdbcTemplate jdbcTemplate;
 
+	@Autowired
+	private AppEmailService appEmailService;
+
 	public static void main(String[] args) {
 		SpringApplication.run(PocProjApplication.class, args);
 	}
@@ -43,7 +48,21 @@ public class PocProjApplication {
 	public CommandLineRunner runner(){
 		return (args)->{
 
-				List<Map<String,Object>> list = jdbcTemplate.queryForList("select * from player_details where team = 'MI'");
+			SendEmailRequestDto request = SendEmailRequestDto.builder()
+					.toEmails(List.of("aravindp6686@gmail.com"))
+					.subject("Email from poc proj")
+					.body("Hello <b>${name}</b>, <p>This is a test email from ${project}</p>" +
+							"<p>Thanks</p>")
+					.keyValuePairs(Map.of("name","Krish","project","POC Project"))
+					.html(true)
+					.attachments(List.of("/Users/techgyaanlabs/Downloads/sample.pdf"))
+					.build();
+
+				appEmailService.sendEmail(request);
+
+
+
+				/*List<Map<String,Object>> list = jdbcTemplate.queryForList("select * from player_details where team = 'MI'");
 				Map<String,Object> map = Map.of("player",list);
 
 				String xslPath  = this.getClass().getResource("/template.xsl").getFile().toString();
@@ -72,7 +91,7 @@ public class PocProjApplication {
 			data = List.of(List.of("1001","Manoj"),List.of("1002","Charan"),List.of("1003","Krish"));
 			File excelFile = obj.writeDataToExcel(List.of("Id","Name"),data,"users.xlsx","user");
 			System.out.println("Excel file generated at : "+excelFile.getAbsolutePath());
-
+*/
 		};
 	}
 
