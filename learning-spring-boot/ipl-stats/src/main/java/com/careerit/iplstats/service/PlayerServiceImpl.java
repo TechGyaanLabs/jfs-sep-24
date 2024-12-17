@@ -56,6 +56,12 @@ public class PlayerServiceImpl implements PlayerService {
 
     }
 
+    @Override
+    public List<Player> findPlayersByTeam(String team) {
+        Assert.hasText(team, "Team can't be empty or null");
+        return playerRepository.findByTeam(team);
+    }
+
     private static void validatePlayer(PlayerDto playerDto) {
         Assert.notNull(playerDto, "PlayerDto can't be null");
         Assert.hasText(playerDto.getName(), "Name can't be empty or null");

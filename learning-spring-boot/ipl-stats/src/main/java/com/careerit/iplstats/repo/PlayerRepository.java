@@ -44,4 +44,5 @@ public interface PlayerRepository extends JpaRepository<Player, UUID> {
     @Query("select p from Player p where p.team=:team")
     List<Player> findPlayersByTeam(@Param("team") String team);
 
+    List<Player> findByTeam(String team);
 }

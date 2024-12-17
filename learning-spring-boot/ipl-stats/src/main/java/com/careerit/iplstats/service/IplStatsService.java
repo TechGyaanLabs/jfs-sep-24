@@ -3,6 +3,7 @@ package com.careerit.iplstats.service;
 import com.careerit.iplstats.dto.*;
 import com.careerit.iplstats.records.TeamNames;
 
+import java.io.File;
 import java.util.List;
 
 public interface IplStatsService {
@@ -15,4 +16,6 @@ public interface IplStatsService {
     List<RoleCountDto> getRoleCount();
 
     TeamStatsDto getTeamStats(String team);
+
+    File exportPlayers(String team);
 }
