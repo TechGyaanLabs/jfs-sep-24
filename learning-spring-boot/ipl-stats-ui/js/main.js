@@ -1,5 +1,5 @@
-//const API_BASE_URL = "https://jfs-sep-24-rgax.onrender.com/api/v1/ipl/stats";
-const API_BASE_URL = "http://localhost:8080/api/v1/ipl/stats";
+const API_BASE_URL = "https://jfs-sep-24-rgax.onrender.com/api/v1/ipl/stats";
+//const API_BASE_URL = "http://localhost:8080/api/v1/ipl/stats";
 google.charts.load('current', { packages: ['corechart'] });
 google.charts.setOnLoadCallback(initializeCharts);
 
