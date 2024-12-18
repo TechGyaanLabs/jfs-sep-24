@@ -121,5 +121,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>ipl-stats-app</finalName>
     </build>
+
 </project>
