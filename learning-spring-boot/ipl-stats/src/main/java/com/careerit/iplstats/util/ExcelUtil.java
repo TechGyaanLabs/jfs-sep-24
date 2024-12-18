@@ -95,5 +95,4 @@ public class ExcelUtil {
             cell.setCellValue((Long) value);
         }
     }
-
 }

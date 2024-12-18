@@ -12,5 +12,6 @@ public interface PlayerService {
         List<PlayerDto> addPlayers(List<PlayerDto> playerDtos);
         Page<PlayerDto> findPlayers(Pageable pageable,String searchTerm);
         List<Player> findPlayersByTeam(String team);
+        List<Player> findAllPlayers();
 
 }

@@ -5,6 +5,7 @@ import com.careerit.iplstats.dto.*;
 import com.careerit.iplstats.records.TeamNames;
 import com.careerit.iplstats.repo.IplStatDao;
 import com.careerit.iplstats.util.ExcelUtil;
+import com.careerit.iplstats.util.PdfService;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
@@ -13,7 +14,9 @@ import org.springframework.stereotype.Service;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 
 @Service
@@ -72,23 +75,63 @@ public class IplStatsServiceImpl implements IplStatsService {
 
     @Override
     public File exportPlayers(String team) {
-        List<Player>  players = playerService.findPlayersByTeam(team);
-        log.info("Total {} players found for team {}",players.size(),team);
-        List<String> headers = List.of("Name","Role","Country","Team","Price");
+        List<Player> players = playerService.findPlayersByTeam(team);
+        String sheetName = team + "_players";
+        String fileName = team + "_players.xlsx";
+        return exportPlayersToFile(players, sheetName, fileName);
+    }
+
+    @Override
+    public File exportAllPlayers() {
+        List<Player> players = playerService.findAllPlayers();
+        String sheetName = "ipl_players";
+        String fileName = "ipl_players.xlsx";
+        return exportPlayersToFile(players, sheetName, fileName);
+    }
+
+    @Override
+    public File exportPdfPlayers(String team) {
+        List<Player> players = playerService.findPlayersByTeam(team);
+        return exportPlayersToPdf(players, team + "_players.pdf");
+    }
+
+    @Override
+    public File exportPdfAllPlayers() {
+        List<Player> players = playerService.findAllPlayers();
+        return exportPlayersToPdf(players, "ipl_players.pdf");
+    }
+
+    private File exportPlayersToPdf(List<Player> players, String fileName) {
+
+        String xslPath  = this.getClass().getResource("/xsl-template/players/template.xsl").getFile().toString();
+        Map<String,Object> list = new HashMap<>();
+        list.put("player",players);
+        PdfService pdfService = PdfService.builder()
+                .data(list)
+                .xsltFilePath(xslPath)
+                .rootElement("players")
+                .fileName(fileName)
+                .build();
+
+        File file = pdfService.generateInvoicePdf();
+        log.info("PDF file generated at : {}",file.getAbsolutePath());
+        return file;
+    }
+
+    private File exportPlayersToFile(List<Player> players, String sheetName, String fileName) {
+        List<String> headers = List.of("Name", "Role", "Country", "Team", "Price");
         List<List<Object>> data = new ArrayList<>();
-        for(Player player:players){
-            List<Object> row = List.of(player.getName(),player.getRole(),player.getCountry(),player.getTeam(),String.valueOf(player.getPrice()));
+        for (Player player : players) {
+            List<Object> row = List.of(player.getName(), player.getRole(), player.getCountry(), player.getTeam(), String.valueOf(player.getPrice()));
             data.add(row);
         }
-        String sheet_name = team+"_players";
-        String file_name = team+"_players.xlsx";
-
         ExcelUtil excelUtil = ExcelUtil.builder()
                 .headers(headers)
                 .data(data)
-                .sheetName(sheet_name)
-                .fileName(file_name)
+                .sheetName(sheetName)
+                .fileName(fileName)
                 .build();
         return excelUtil.createExcel();
     }
+
 }

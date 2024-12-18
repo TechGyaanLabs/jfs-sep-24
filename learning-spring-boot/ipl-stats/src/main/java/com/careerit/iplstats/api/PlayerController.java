@@ -3,7 +3,6 @@ package com.careerit.iplstats.api;
 import com.careerit.iplstats.dto.PlayerDto;
 import com.careerit.iplstats.service.PlayerService;
 import com.careerit.iplstats.util.ApiResponse;
-import com.careerit.iplstats.util.ListApiResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -25,8 +24,8 @@ public class PlayerController {
     }
 
     @PostMapping("/bulk")
-    public ListApiResponse<PlayerDto> addPlayers(@RequestBody List<PlayerDto> playerDtos) {
-        return ListApiResponse.success(playerService.addPlayers(playerDtos), playerDtos.size());
+    public ApiResponse<List<PlayerDto>> addPlayers(@RequestBody List<PlayerDto> playerDtos) {
+        return ApiResponse.success(playerService.addPlayers(playerDtos));
     }
 
     @GetMapping("/list-page")

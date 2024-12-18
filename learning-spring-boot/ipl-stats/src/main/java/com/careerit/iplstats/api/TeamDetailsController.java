@@ -3,7 +3,6 @@ package com.careerit.iplstats.api;
 import com.careerit.iplstats.dto.TeamDetailsDto;
 import com.careerit.iplstats.service.TeamDetailsService;
 import com.careerit.iplstats.util.ApiResponse;
-import com.careerit.iplstats.util.ListApiResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
@@ -23,15 +22,15 @@ public class TeamDetailsController {
     }
 
     @GetMapping("/all")
-    public ListApiResponse<TeamDetailsDto> getTeamDetails(){
+    public ApiResponse<List<TeamDetailsDto>> getTeamDetails(){
         List<TeamDetailsDto> teamDetails = teamDetailsService.getTeamDetails();
-        return ListApiResponse.success(teamDetails,teamDetails.size());
+        return ApiResponse.success(teamDetails);
     }
 
     @PostMapping("/bulk")
-    public ListApiResponse<TeamDetailsDto> addTeams(@RequestBody List<TeamDetailsDto> teamDetailsDtoList){
+    public ApiResponse<List<TeamDetailsDto>> addTeams(@RequestBody List<TeamDetailsDto> teamDetailsDtoList){
         List<TeamDetailsDto> addedTeams = teamDetailsService.addTeams(teamDetailsDtoList);
-        return ListApiResponse.success(addedTeams,addedTeams.size());
+        return ApiResponse.success(addedTeams);
     }
 
 }

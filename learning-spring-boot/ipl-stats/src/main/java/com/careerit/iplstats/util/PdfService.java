@@ -1,4 +1,4 @@
-package com.careerit.pocproj.util;
+package com.careerit.iplstats.util;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.NoArgsConstructor;
@@ -26,7 +26,7 @@ public class PdfService {
     private String xsltFilePath = "";
     private Map<String, Object> data;
     private String rootElement = "root";
-    private String fileName = "demo.pdf";
+    private String fileName = "players.pdf";
 
 
     public File generateInvoicePdf() {

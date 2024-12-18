@@ -18,4 +18,8 @@ public interface IplStatsService {
     TeamStatsDto getTeamStats(String team);
 
     File exportPlayers(String team);
+    File exportAllPlayers();
+
+    File exportPdfPlayers(String team);
+    File exportPdfAllPlayers();
 }

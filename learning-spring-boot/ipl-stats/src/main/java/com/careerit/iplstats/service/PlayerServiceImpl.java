@@ -62,6 +62,11 @@ public class PlayerServiceImpl implements PlayerService {
         return playerRepository.findByTeam(team);
     }
 
+    @Override
+    public List<Player> findAllPlayers() {
+        return playerRepository.findAll();
+    }
+
     private static void validatePlayer(PlayerDto playerDto) {
         Assert.notNull(playerDto, "PlayerDto can't be null");
         Assert.hasText(playerDto.getName(), "Name can't be empty or null");
