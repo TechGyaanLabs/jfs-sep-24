@@ -84,7 +84,7 @@ public class IplStatsController {
         try (FileInputStream fileInputStream = new FileInputStream(file)) {
             byte[] excelBytes = fileInputStream.readAllBytes();
             return ResponseEntity.ok()
-                    .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=" + file.getName())
+                    .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=\"" + file.getName()+"\"")
                     .contentType(MediaType.APPLICATION_OCTET_STREAM)
                     .contentLength(excelBytes.length)
                     .body(excelBytes);

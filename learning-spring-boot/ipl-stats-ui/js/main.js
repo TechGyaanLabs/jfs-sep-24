@@ -1,4 +1,5 @@
-const API_BASE_URL = "https://jfs-sep-24-rgax.onrender.com/api/v1/ipl/stats";
+//const API_BASE_URL = "https://jfs-sep-24-rgax.onrender.com/api/v1/ipl/stats";
+const API_BASE_URL = "http://localhost:8080/api/v1/ipl/stats";
 google.charts.load('current', { packages: ['corechart'] });
 google.charts.setOnLoadCallback(initializeCharts);
 
@@ -209,6 +210,53 @@ async function loadTopPaidPlayers() {
         console.error('Failed to load top paid players:', error);
     }
 }
+
+const downloadAllPlayersPdf = document.getElementById("downloadAllPlayersPdf");
+
+downloadAllPlayersPdf.addEventListener("click", () => {
+    fetch(`${API_BASE_URL}/export-pdf-players/all`, {
+        method: 'GET',
+        headers: {
+            'Content-Type': 'application/pdf',
+        },
+    })
+    .then((response) => {
+        if (!response.ok) {
+            throw new Error('Failed to fetch the PDF');
+        }
+
+        // Extract file name from the Content-Disposition header
+        const contentDisposition = response.headers.get('Content-Disposition');
+        console.log(contentDisposition);
+        let fileName = 'default.pdf'; // Fallback file name
+
+        if (contentDisposition && contentDisposition.includes('filename')) {
+            const matches = contentDisposition.match(/filename="(.+)"/);
+            if (matches && matches[1]) {
+                fileName = matches[1];
+            }
+        }
+
+        return response.blob().then((blob) => ({ blob, fileName }));
+    })
+    .then(({ blob, fileName }) => {
+        // Create a URL for the Blob
+        const url = URL.createObjectURL(blob);
+
+        // Create a temporary <a> element
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = fileName; // Use the file name from the server
+        document.body.appendChild(a);
+        a.click(); // Trigger the download
+        document.body.removeChild(a); // Clean up
+        URL.revokeObjectURL(url); // Release the Blob URL
+    })
+    .catch((error) => {
+        console.error('Error fetching PDF:', error);
+    });
+});
+
 
 loadTeamNames(); // Load team names on page load
 initializeCharts() // Load charts on page load
